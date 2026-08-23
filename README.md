@@ -83,6 +83,7 @@
 * [BitTorrent clients](#bittorrent-clients)
 * [Video editors](#video-editors)
 * [Video transcoders](#video-transcoders)
+* [File Conversion](#file-conversion)
 * [Graphic design](#graphic-design)
 * [Document viewers](#document-viewers)
 * [Ebook readers](#ebook-reader)
@@ -724,6 +725,10 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Handbrake](https://handbrake.fr) – A video converter from nearly any format to a selection of modern, widely supported codecs.
 * [VidCoder](https://vidcoder.net) – A Windows front-end for Handbrake.
 * [Shutter Encode](https://www.shutterencoder.com) – A converter designed by video editors.
+
+## File Conversion
+
+- [AI convertly](https://aiconvertly.online) – A free, browser-based toolkit for converting PDFs, images, audio, and video, plus two AI-powered enhancement tools. All processing happens client-side, with no uploads or accounts required.
 
 ## Graphic design
 
